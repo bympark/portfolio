@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+.App {
+  height: 100%;
+  width: 80%;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  margin: auto;
+}
+
+.frame {
+  height: 100%;
+  width: 250px;
+}
+
+/* based on dimensions of the frame */
+.content {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

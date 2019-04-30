@@ -1,0 +1,20 @@
+:local(.currentView a) {
+  border-bottom: 2px solid #75AEF6;
+  color: #75AEF6;
+  transition: 300ms;
+  font-weight: bold;
+}
+
+:local(li a) {
+  border-bottom: 2px solid transparent;
+}
+
+:local(li) {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+:local(ul) {
+  padding: 0;
+}
